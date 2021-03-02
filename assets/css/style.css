@@ -705,6 +705,14 @@ textarea::-ms-input-placeholder
     color:#fff;
     margin-bottom:20px;
 }
+.contact-details1{
+    background: rgba(55, 38, 57, 0.64);
+    padding:60px 40px;
+    color:#fff;
+    margin-left:150%;
+	width:530px;
+	height:280px;
+}
 .contact-details h4{
     margin-bottom:25px;
 }
